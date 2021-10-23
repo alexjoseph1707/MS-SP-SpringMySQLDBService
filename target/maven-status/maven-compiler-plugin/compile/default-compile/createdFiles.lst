@@ -1,0 +1,5 @@
+org\example\resource\Users.class
+org\example\resource\UserRepository.class
+org\example\App.class
+org\example\resource\Resource.class
+org\example\Config.class
